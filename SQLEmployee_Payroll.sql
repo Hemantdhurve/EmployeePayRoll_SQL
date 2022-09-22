@@ -156,4 +156,3 @@ select Employee.Emp_name,SUM(BasicPay) as TotalSum from Employee,Payroll group b
 
 
 
-
