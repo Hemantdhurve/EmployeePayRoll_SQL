@@ -62,8 +62,5 @@ IncomeTax=200,
 NetPay=18000 where name='Hemant'
 
 
-
-update employee_payroll set Department= where name='hemant'
-
 select name from employee_payroll order by name desc
 
