@@ -153,6 +153,6 @@ select SUM(BasicPay) as TotalSum from Employee,Payroll where Emp_Gender='M' grou
 select Employee.Emp_name,SUM(BasicPay) as TotalSum from Employee,Payroll group by Emp_name
 
 
-
+select * from Payroll;
 
 
